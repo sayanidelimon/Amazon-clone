@@ -1,11 +1,23 @@
-# Amazon-clone
-This whole website is cloned by using HTML and CSS.
+Description
 
-HTML code is given in the index.html file 
-CSS file is given in the style.css file
-The picture which is used to design,you can also find this picture in the repo
+This repository contains a project where I've recreated the Amazon website's landing page using HTML and CSS. The goal was to practice my front-end development skills and create a visually appealing clone of Amazon's familiar layout.
 
+Features
 
-You can run this file in VS code or other ide which can run html and css code properly
-Please download the zip file and then extract the file from there,try to run it in VS code after that
+* Responsive design similar to Amazon's website.
 
+* Navbar with links to different sections.
+
+* Product grid with items, images, and prices.
+
+* Footer with useful links and company information.
+
+Technologies Used
+
+* HTML
+
+* CSS
+
+Contact
+
+Feel free to contact with me in limonsidrat4@gmail.com
